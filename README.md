@@ -15,14 +15,14 @@ The code is written for educational purposes. Training course for web-developers
 
 Требования:
 
-    Сайт размещен на [GitHub Pages](https://pages.github.com/), в README указана ссылка на него
+   Сайт размещен на [GitHub Pages](https://pages.github.com/), в README указана ссылка на него
 
 Рекомендации:
 
-    [W3C Markup Validation Service](https://validator.w3.org/)
-    [YSlow](http://yslow.org/)
+   [W3C Markup Validation Service](https://validator.w3.org/)
+   [YSlow](http://yslow.org/)
 
 Что может оказаться полезно:
 
-    [обзорная статья подключение JavaScript кода.](https://devman.org/encyclopedia/frontend/frontend_plug_js/)
+   [обзорная статья подключение JavaScript кода.](https://devman.org/encyclopedia/frontend/frontend_plug_js/)
 
