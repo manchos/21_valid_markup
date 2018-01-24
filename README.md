@@ -9,7 +9,7 @@ The code is written for educational purposes. Training course for web-developers
 
 
 
-/encyclopedia/frontend/frontend_plug_js/
+
 
 Верстка должна быть валидной. Это снижает риск поломанной верстки в браузерах на разных платформах (Android, iOS, Windows), делает работу сайта стабильнее. Но похоже, тот парень этого не знал. Более того, он допустил еще ряд грубейших ошибок. Исправь их, размести сайт в Интернете.
 
